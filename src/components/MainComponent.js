@@ -67,6 +67,7 @@ class Main extends Component {
   constructor(props) {
     super(props);
     console.log(props);
+    console.log("aaaa");
   }
 
   componentDidMount() {
