@@ -10,7 +10,7 @@ class MenuComponent extends Component {
         {
           id: 0,
           name: "Uthappizza",
-          image: "img/uthappizza.png",
+          image: "images/uthappizza.png",
           category: "mains",
           label: "Hot",
           price: "4.99",
@@ -20,7 +20,7 @@ class MenuComponent extends Component {
         {
           id: 1,
           name: "Zucchipakoda",
-          image: "img/zucchipakoda.png",
+          image: "images/zucchipakoda.png",
           category: "appetizer",
           label: "",
           price: "1.99",
@@ -30,7 +30,7 @@ class MenuComponent extends Component {
         {
           id: 2,
           name: "Vadonut",
-          image: "img/vadonut.png",
+          image: "images/vadonut.png",
           category: "appetizer",
           label: "New",
           price: "1.99",
@@ -40,7 +40,7 @@ class MenuComponent extends Component {
         {
           id: 3,
           name: "ElaiCheese Cake",
-          image: "img/elaicheesecake.png",
+          image: "images/elaicheesecake.png",
           category: "dessert",
           label: "",
           price: "2.99",
